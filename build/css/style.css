@@ -1079,6 +1079,10 @@ input:checked + .toggle-bg{
   bottom: 0px;
 }
 
+.bottom-10{
+  bottom: 2.5rem;
+}
+
 .bottom-\[60px\]{
   bottom: 60px;
 }
@@ -1101,10 +1105,6 @@ input:checked + .toggle-bg{
 
 .top-1\/2{
   top: 50%;
-}
-
-.bottom-10{
-  bottom: 2.5rem;
 }
 
 .z-10{
@@ -1130,11 +1130,6 @@ input:checked + .toggle-bg{
 .mx-auto{
   margin-left: auto;
   margin-right: auto;
-}
-
-.my-12{
-  margin-top: 3rem;
-  margin-bottom: 3rem;
 }
 
 .mb-1{
@@ -1163,10 +1158,6 @@ input:checked + .toggle-bg{
 
 .mt-2{
   margin-top: 0.5rem;
-}
-
-.mt-24{
-  margin-top: 6rem;
 }
 
 .block{
@@ -1646,11 +1637,6 @@ input:checked + .toggle-bg{
 .text-gray-900{
   --tw-text-opacity: 1;
   color: rgb(17 24 39 / var(--tw-text-opacity));
-}
-
-.text-violet-500{
-  --tw-text-opacity: 1;
-  color: rgb(139 92 246 / var(--tw-text-opacity));
 }
 
 .text-white{
